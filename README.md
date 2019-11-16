@@ -1,2 +1,2 @@
-# SimpleMapApp
-Simple Map based on an AWS Code Deploy sample project
+# simplemap
+Just a simple Hello World Map to test deployment pipeline
